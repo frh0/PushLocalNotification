@@ -1,5 +1,6 @@
 # PushLocalNotification
 ## local Notification using Swift
+local notification code where it will be triggered from the insde of the code without the need of storage .
 
 
 ## demo pics :)
